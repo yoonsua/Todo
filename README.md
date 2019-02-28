@@ -7,7 +7,7 @@ Todo App made with React-native
  >1) npm 실행
  >2) npm install expo-cli --global
 3. New Project 생성
-  - expo init myproject
+ >- expo init myproject
 4. myproject 실행
  >1) cd myproject
  >2) expo start
