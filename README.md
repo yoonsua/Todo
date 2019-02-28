@@ -1,7 +1,7 @@
 # Todo
 Todo App made with React-native
 
-# Expo 설치 방법
+## Expo 설치 방법
 1. [Node.js](https://nodejs.org/ko/) 설치
 2. Expo-cli 설치
  >1) npm 실행
