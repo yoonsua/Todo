@@ -12,7 +12,7 @@ Todo App made with React-native
  >1) cd myproject
  >2) expo start
   
-# 모바일 디바이스 연결 (안드로이드)
+## 모바일 디바이스 연결 (안드로이드)
 1. 모바일 디바이스 [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&rdid=host.exp.exponent) 설치 
 2. Expo 앱 실행
  >1) Scan QR Code
