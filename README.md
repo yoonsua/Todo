@@ -1,5 +1,5 @@
 # Todo
-Todo web page created by react
+Todo web page created by react :clipboard:
 
 ## create-react-app 설치 및 사용
 1. 글로벌 설치
